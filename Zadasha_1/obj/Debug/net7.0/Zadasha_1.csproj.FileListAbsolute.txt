@@ -1,0 +1,15 @@
+C:\GB\C#\Lektion\DZ1\Zadasha_1\obj\Debug\net7.0\Zadasha_1.csproj.AssemblyReference.cache
+C:\GB\C#\Lektion\DZ1\Zadasha_1\obj\Debug\net7.0\Zadasha_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C#\Lektion\DZ1\Zadasha_1\obj\Debug\net7.0\Zadasha_1.AssemblyInfoInputs.cache
+C:\GB\C#\Lektion\DZ1\Zadasha_1\obj\Debug\net7.0\Zadasha_1.AssemblyInfo.cs
+C:\GB\C#\Lektion\DZ1\Zadasha_1\obj\Debug\net7.0\Zadasha_1.csproj.CoreCompileInputs.cache
+C:\GB\C#\Lektion\DZ1\Zadasha_1\bin\Debug\net7.0\Zadasha_1.exe
+C:\GB\C#\Lektion\DZ1\Zadasha_1\bin\Debug\net7.0\Zadasha_1.deps.json
+C:\GB\C#\Lektion\DZ1\Zadasha_1\bin\Debug\net7.0\Zadasha_1.runtimeconfig.json
+C:\GB\C#\Lektion\DZ1\Zadasha_1\bin\Debug\net7.0\Zadasha_1.dll
+C:\GB\C#\Lektion\DZ1\Zadasha_1\bin\Debug\net7.0\Zadasha_1.pdb
+C:\GB\C#\Lektion\DZ1\Zadasha_1\obj\Debug\net7.0\Zadasha_1.dll
+C:\GB\C#\Lektion\DZ1\Zadasha_1\obj\Debug\net7.0\refint\Zadasha_1.dll
+C:\GB\C#\Lektion\DZ1\Zadasha_1\obj\Debug\net7.0\Zadasha_1.pdb
+C:\GB\C#\Lektion\DZ1\Zadasha_1\obj\Debug\net7.0\Zadasha_1.genruntimeconfig.cache
+C:\GB\C#\Lektion\DZ1\Zadasha_1\obj\Debug\net7.0\ref\Zadasha_1.dll
