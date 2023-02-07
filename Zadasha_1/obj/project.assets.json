@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Yspex\\.nuget\\packages\\": {}
+    "/home/ant/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GB\\C#\\Lektion\\DZ1\\Zadasha_1\\Zadasha_1.csproj",
+      "projectUniqueName": "/home/ant/GB/C#/Lektion/DZ1/Zadasha_1/Zadasha_1.csproj",
       "projectName": "Zadasha_1",
-      "projectPath": "C:\\GB\\C#\\Lektion\\DZ1\\Zadasha_1\\Zadasha_1.csproj",
-      "packagesPath": "C:\\Users\\Yspex\\.nuget\\packages\\",
-      "outputPath": "C:\\GB\\C#\\Lektion\\DZ1\\Zadasha_1\\obj\\",
+      "projectPath": "/home/ant/GB/C#/Lektion/DZ1/Zadasha_1/Zadasha_1.csproj",
+      "packagesPath": "/home/ant/.nuget/packages/",
+      "outputPath": "/home/ant/GB/C#/Lektion/DZ1/Zadasha_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Yspex\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/ant/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }
