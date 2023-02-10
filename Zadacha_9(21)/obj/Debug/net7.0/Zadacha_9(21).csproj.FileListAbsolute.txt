@@ -1,0 +1,15 @@
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/bin/Debug/net7.0/Zadacha_9(21)
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/bin/Debug/net7.0/Zadacha_9(21).deps.json
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/bin/Debug/net7.0/Zadacha_9(21).runtimeconfig.json
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/bin/Debug/net7.0/Zadacha_9(21).dll
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/bin/Debug/net7.0/Zadacha_9(21).pdb
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/obj/Debug/net7.0/Zadacha_9(21).csproj.AssemblyReference.cache
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/obj/Debug/net7.0/Zadacha_9(21).GeneratedMSBuildEditorConfig.editorconfig
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/obj/Debug/net7.0/Zadacha_9(21).AssemblyInfoInputs.cache
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/obj/Debug/net7.0/Zadacha_9(21).AssemblyInfo.cs
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/obj/Debug/net7.0/Zadacha_9(21).csproj.CoreCompileInputs.cache
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/obj/Debug/net7.0/Zadacha_9(21).dll
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/obj/Debug/net7.0/refint/Zadacha_9(21).dll
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/obj/Debug/net7.0/Zadacha_9(21).pdb
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/obj/Debug/net7.0/Zadacha_9(21).genruntimeconfig.cache
+/home/ant/GB/C#/Lektion/DZ1/Zadacha_9(21)/obj/Debug/net7.0/ref/Zadacha_9(21).dll
